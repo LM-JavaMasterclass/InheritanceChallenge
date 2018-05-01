@@ -1,8 +1,11 @@
 # InheritanceChallenge
-Challenge for Inheritance lesson on Udemy - Complete Java Masterclass with Tim Buchalka
+Challenge for Inheritance lesson on Udemy - Complete Java Masterclass with Tim Buchalka.
+
 Open source files in preferred Java IDE, compile and Run. 
 
+
 Challenge:
+
 Start with a base class of a Vehicle, then create a Car class that inherits from this base class.
 Finally, create another class, a specific type of Car that inherits from the Car class.
 You should be able to hand steering, changing gears, and moving (speed in other words).
